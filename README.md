@@ -31,5 +31,5 @@ This Arduino-based project simulates a smart traffic light control system using 
 4. Upload or simulate to test.
 
 ## 💻 Author
-[Your Name]
+Juanito M. Ramos II
 
