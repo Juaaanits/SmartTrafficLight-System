@@ -17,7 +17,8 @@ This Arduino-based project simulates a smart traffic light control system using 
 - (Optional) Breadboard
 
 ## 📷 Tinkercad Setup
-![Tinkercad Screenshot](screenshot.png)
+![Tinkercad Screenshot](![image](https://github.com/user-attachments/assets/e1301231-afcc-4cda-b8a4-f7c3bd2a8d82)
+)
 
 ## 🧠 Code Logic
 - If **emergency switch** is ON, override all signals and allow Road A to pass.
